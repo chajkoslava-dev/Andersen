@@ -1,1 +1,1 @@
-This is the cod of the programm
+This is the code of the programm that I was asked to do. The programm contains 3 subtasks in itself. Also the programm is flexible. I mean if the person enters the wrong data format the program won't go further untill the user will enter the write data format. The code of the programm is filled with comments to help you to understand it.
